@@ -1,9 +1,9 @@
 # study
 ![index](https://github.com/Panlibin2015/study/raw/master/img/DirectCreateString.png)
-![index](https://github.com/Panlibin2015/study/img/master/img/ConstructorCreateString.png)
-![index](https://github.com/Panlibin2015/study/img/master/img/RuntimeConstant.png)
-![index](https://github.com/Panlibin2015/study/img/master/img/FinalCreateString1.png)
-![index](https://github.com/Panlibin2015/study/img/master/img/FinalCreateString2.png)
+![index](https://github.com/Panlibin2015/study/raw/master/img/ConstructorCreateString.png)
+![index](https://github.com/Panlibin2015/study/raw/master/img/RuntimeConstant.png)
+![index](https://github.com/Panlibin2015/study/raw/master/img/FinalCreateString1.png)
+![index](https://github.com/Panlibin2015/study/raw/master/img/FinalCreateString2.png)
 	2.1 不可变类
 	2.1.1 什么是不可变类
 		不可变类：所谓的不可变类是指这个类的实例一旦创建完成后，就不能改变其成员变量值。如JDK内部自带的很多不可变类：Interger、Long和			String等。

@@ -1,6 +1,7 @@
 # study
 ![index](https://github.com/linwh8/ModernWebPrograming/raw/master/My_image/recipe_index.png)
-	 ![index](https://github.com/Panlibin2015/study/tree/raw/master/img/DirectCreateString.png)
+
+![index](https://github.com/Panlibin2015/study/raw/master/img/DirectCreateString.png)
 	 ![index](https://github.com/Panlibin2015/study/tree/master/img/ConstructorCreateString.png)
 	 ![index](https://github.com/Panlibin2015/study/tree/master/img/RuntimeConstant.png)
 	 ![index](https://github.com/Panlibin2015/study/tree/master/img/FinalCreateString1.png)

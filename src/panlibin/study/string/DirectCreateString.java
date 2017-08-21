@@ -3,6 +3,7 @@ package panlibin.study.string;
 import java.io.IOException;
 
 public class DirectCreateString {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		/**
 		 	How this works?(这些动作都在编译的时候完成)
